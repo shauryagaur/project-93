@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+#user_name{
+    width: 450px;
+}
+#info{
+    height: 400px;
+    background-color:white;
+    padding : 40px;
+    border: 0px;;
+}
+#logo1{
+    height: 100px;
+}
+#lets_discuss{
+    font-size: 20px;
+}
+#body{
+    background-color: cyan;
+}
